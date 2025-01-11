@@ -11,19 +11,19 @@
 ## Here are some sample outputs of the assignment. I tried my best, but at certain points or in some segments, I was unable to complete the task and encountered errors
 
 - folder structure
-![project folder](folderStructure.jpg)
+![project folder](images/folderStructure.jpg)
 
 - command to run server and connect with mongoDB database.
-![Command to run](connectionwithdatabase.jpg)
+![Command to run](./images/connectionwithdatabase.jpg)
 
 - send the data using post command
-![post](datasend.jpg)
+![post](./images/datasend.jpg)
 
 - initialize database
-![output message](intializedb.jpg)
+![output message](./images/intializedb.jpg)
 
 - mongoDB database
-![database](databaseshow.jpg)
+![database](./images/database show.jpg)
 
 - frontend
-![frontend](frontend.jpg)
+![frontend](./images/frontend.jpg)
