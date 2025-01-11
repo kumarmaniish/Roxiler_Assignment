@@ -14,16 +14,16 @@
 ![project folder](images/folderStructure.jpg)
 
 - command to run server and connect with mongoDB database.
-![Command to run](./images/connectionwithdatabase.jpg)
+![Command to run](images/connectionwithdatabase.jpg)
 
 - send the data using post command
-![post](./images/datasend.jpg)
+![post](images/datasend.jpg)
 
 - initialize database
-![output message](./images/intializedb.jpg)
+![output message](images/intializedb.jpg)
 
 - mongoDB database
-![database](./images/database show.jpg)
+![database](images/databaseshow.jpg)
 
 - frontend
-![frontend](./images/frontend.jpg)
+![frontend](images/frontend.jpg)
