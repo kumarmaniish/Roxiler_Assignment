@@ -8,7 +8,7 @@
 
 # Coding Challenge for MERN Stack is [Roxiler_Assignment](https://drive.google.com/file/d/1EWIwgu3PktuSixKcturVMF3Wi-T_j7ou/view)
 
-## Here are some sample outputs of the assignment. I tried my best, but at certain points or in some segments, I was unable to complete the task and encountered errors
+## Here are some sample outputs of the assignment. I tried my best, but at certain points or in some segments, I was unable to complete the task and encountered errors.
 
 - folder structure
 ![project folder](images/folderStructure.jpg)
@@ -23,7 +23,9 @@
 ![output message](images/intializedb.jpg)
 
 - mongoDB database
-![database](images/databaseshow.jpg)
+![database](images/databseshow.jpg)
 
 - frontend
 ![frontend](images/frontend.jpg)
+
+# Thank you for acknowledging my work and efforts.
